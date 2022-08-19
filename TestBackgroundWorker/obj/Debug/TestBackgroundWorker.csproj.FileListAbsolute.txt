@@ -1,0 +1,22 @@
+C:\Users\jvl\source\repos\TestBackgroundWorker\TestBackgroundWorker\bin\Debug\TestBackgroundWorker.exe.config
+C:\Users\jvl\source\repos\TestBackgroundWorker\TestBackgroundWorker\bin\Debug\TestBackgroundWorker.exe
+C:\Users\jvl\source\repos\TestBackgroundWorker\TestBackgroundWorker\bin\Debug\TestBackgroundWorker.pdb
+C:\Users\jvl\source\repos\TestBackgroundWorker\TestBackgroundWorker\obj\Debug\TestBackgroundWorker.csproj.AssemblyReference.cache
+C:\Users\jvl\source\repos\TestBackgroundWorker\TestBackgroundWorker\obj\Debug\TestBackgroundWorker.csproj.SuggestedBindingRedirects.cache
+C:\Users\jvl\source\repos\TestBackgroundWorker\TestBackgroundWorker\obj\Debug\TestBackgroundWorker.Form1.resources
+C:\Users\jvl\source\repos\TestBackgroundWorker\TestBackgroundWorker\obj\Debug\TestBackgroundWorker.Properties.Resources.resources
+C:\Users\jvl\source\repos\TestBackgroundWorker\TestBackgroundWorker\obj\Debug\TestBackgroundWorker.csproj.GenerateResource.cache
+C:\Users\jvl\source\repos\TestBackgroundWorker\TestBackgroundWorker\obj\Debug\TestBackgroundWorker.csproj.CoreCompileInputs.cache
+C:\Users\jvl\source\repos\TestBackgroundWorker\TestBackgroundWorker\obj\Debug\TestBackgroundWorker.exe
+C:\Users\jvl\source\repos\TestBackgroundWorker\TestBackgroundWorker\obj\Debug\TestBackgroundWorker.pdb
+C:\Users\mct\OneDrive - IEE S.A\Aplications of Visual Studio\TestBackgroundWorker\TestBackgroundWorker\bin\Debug\TestBackgroundWorker.exe.config
+C:\Users\mct\OneDrive - IEE S.A\Aplications of Visual Studio\TestBackgroundWorker\TestBackgroundWorker\bin\Debug\TestBackgroundWorker.exe
+C:\Users\mct\OneDrive - IEE S.A\Aplications of Visual Studio\TestBackgroundWorker\TestBackgroundWorker\bin\Debug\TestBackgroundWorker.pdb
+C:\Users\mct\OneDrive - IEE S.A\Aplications of Visual Studio\TestBackgroundWorker\TestBackgroundWorker\obj\Debug\TestBackgroundWorker.csproj.AssemblyReference.cache
+C:\Users\mct\OneDrive - IEE S.A\Aplications of Visual Studio\TestBackgroundWorker\TestBackgroundWorker\obj\Debug\TestBackgroundWorker.csproj.SuggestedBindingRedirects.cache
+C:\Users\mct\OneDrive - IEE S.A\Aplications of Visual Studio\TestBackgroundWorker\TestBackgroundWorker\obj\Debug\TestBackgroundWorker.Form1.resources
+C:\Users\mct\OneDrive - IEE S.A\Aplications of Visual Studio\TestBackgroundWorker\TestBackgroundWorker\obj\Debug\TestBackgroundWorker.Properties.Resources.resources
+C:\Users\mct\OneDrive - IEE S.A\Aplications of Visual Studio\TestBackgroundWorker\TestBackgroundWorker\obj\Debug\TestBackgroundWorker.csproj.GenerateResource.cache
+C:\Users\mct\OneDrive - IEE S.A\Aplications of Visual Studio\TestBackgroundWorker\TestBackgroundWorker\obj\Debug\TestBackgroundWorker.csproj.CoreCompileInputs.cache
+C:\Users\mct\OneDrive - IEE S.A\Aplications of Visual Studio\TestBackgroundWorker\TestBackgroundWorker\obj\Debug\TestBackgroundWorker.exe
+C:\Users\mct\OneDrive - IEE S.A\Aplications of Visual Studio\TestBackgroundWorker\TestBackgroundWorker\obj\Debug\TestBackgroundWorker.pdb
